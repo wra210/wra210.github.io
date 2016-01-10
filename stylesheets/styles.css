@@ -141,13 +141,13 @@ hr {
 }
 
 .left {
-    background-color: Red;
+    background-color: White;
     float: left;
     width: 50%;
 }
 
 .right {
-    background-color: Aqua;
+    background-color: White;
     margin-left: 50%;
 }
 
