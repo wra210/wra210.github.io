@@ -141,13 +141,13 @@ hr {
 }
 
 .left {
-    background-color: White;
+    background-color: LightGray;
     float: left;
     width: 50%;
 }
 
 .right {
-    background-color: White;
+    background-color: LightGray;
     margin-left: 50%;
 }
 
