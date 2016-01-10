@@ -140,6 +140,17 @@ hr {
   margin:0 0 24px;
 }
 
+.left {
+    background-color: Red;
+    float: left;
+    width: 50%;
+}
+
+.right {
+    background-color: Aqua;
+    margin-left: 50%;
+}
+
 /* Images */
 
 img {
