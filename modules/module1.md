@@ -11,16 +11,16 @@ You will produce a Microsoft Word document in which you answer a series of quest
 ##### Step-by-Step Instructions
 
 1. **Read / watch the following:**
-* [What is a Web Host?](http://www.w3schools.com/website/web_host_intro.asp)
-* [What is a Web Host?](https://youtu.be/HrOnrephOlE)
-* [What is FTP?](https://youtu.be/Spg0JFLc3KI)
-* [MSU AFS Space](http://techbase.msu.edu/article.asp?id=2394&service=techbase)
+  * [What is a Web Host?](http://www.w3schools.com/website/web_host_intro.asp)
+  * [What is a Web Host?](https://youtu.be/HrOnrephOlE)
+  * [What is FTP?](https://youtu.be/Spg0JFLc3KI)
+  * [MSU AFS Space](http://techbase.msu.edu/article.asp?id=2394&service=techbase)
 
 2. **Create a Microsoft Word document in which you answer the following questions:**
-* What are the 3 basic technologies needed to run a website?
-* What are local files, what are web servers, what is FTP and how are they related?
-* What is AFS Space and what does it allow you to do?
-* What is the URL for the web space MSU provides for you in your AFS space?
+  * What are the 3 basic technologies needed to run a website?
+  * What are local files, what are web servers, what is FTP and how are they related?
+  * What is AFS Space and what does it allow you to do?
+  * What is the URL for the web space MSU provides for you in your AFS space?
 
 3. **[Download and install Filezilla.](https://filezilla-project.org)** Go to the Filezilla website and download the most recent version for your operating system (Windows, Mac, etc). Once you've installed Filezilla, use [these MSU-provided instructions](http://techbase.msu.edu/article.asp?id=6845&service=techbase) to configure Filezilla to connect to your AFS space. Read the complete tutorial for details on how Filezilla lets you move files between your computer and a server.
 
