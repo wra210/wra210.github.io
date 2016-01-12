@@ -16,10 +16,10 @@ You will produce a short report summarizing the results of your usability test, 
 2. **Summarize your revisions.** What feedback did you utilize in your revisions? What did you disregard? How substantial were your revisions?
 
 3. **Reflect on the process and how you might design in the future.** 
-* Did you find usability/review helpful? Why or why not? 
-* Did you learn anything about graphic design from your test group? 
-* *How might your design choices in the future be influenced by what you learned from your group? 
-* Also, think about your usability test of others - what did you learn by reviewing the work of your classmates that might be helpful for you going forward?
+  * Did you find usability/review helpful? Why or why not? 
+  * Did you learn anything about graphic design from your test group? 
+  * How might your design choices in the future be influenced by what you learned from your group? 
+  * Also, think about your usability test of others - what did you learn by reviewing the work of your classmates that might be helpful for you going forward?
 
 4. **Upload your document to your AFS Space**. Save your report as a .pdf, upload it to your AFS space, and update your course page accordingly.
 
