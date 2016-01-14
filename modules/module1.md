@@ -6,7 +6,7 @@
 This module will help you gain a basic understanding of the Internet, specifically about servers, hosts, file transfers, and your MSU-provided AFS space.
 
 ##### What You'll Produce
-You will produce a Microsoft Word document in which you answer a series of questions about the readings. You will then upload that document to your AFS space and then email me a link to where I can access that file on the Internet.
+You will produce a Microsoft Word document in which you answer a series of questions about the readings. You will then upload that document to your AFS space where I can access that file on the Internet.
 
 ##### Step-by-Step Instructions
 
