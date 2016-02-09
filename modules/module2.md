@@ -3,7 +3,7 @@
 
 ##### What You'll Learn
 
-You will use the CRAP framework to analyze the design of a website. Specifically, you will examine how a PW/DRPW alum used the CRAP principles (Contrast, Repetition, Alignment, and Proximity [link1](http://www.presentationzen.com/chapter6_spread.pdf) - [link2](http://2012books.lardbucket.org/books/designing-business-information-systems-apps-websites-and-more/s07-01-c-r-a-p-principles-of-graphic-.html) in the design of their portfolio or where the principles might be applied more effectively. You will choose an alum to analyze from the [WRAC Department's website](http://wrac.msu.edu/professional-writing/portfolio/).
+You will use the CRAP framework to analyze the design of a website. Specifically, you will examine how a PW/DRPW alum used the CRAP principles (Contrast, Repetition, Alignment, and Proximity [link1](http://www.presentationzen.com/chapter6_spread.pdf) - [link2](http://2012books.lardbucket.org/books/designing-business-information-systems-apps-websites-and-more/s07-01-c-r-a-p-principles-of-graphic-.html) in the design of their portfolio or where the principles might be applied more effectively. You will choose an alum to analyze from the [WRAC Department's portfolio archive](http://old.wrac.msu.edu/professional-writing/portfolio/).
 
 ##### What You'll Produce
 You will detail your findings in a short report. You will save this report as a Word document, which you will upload to your AFS space and link to from your course homepage. If you're feeling particularly generous, you will share your report with the designer of the site you analyzed (researchers should almost always share their conclusions with their interview subjects).
