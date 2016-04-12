@@ -14,9 +14,9 @@ You will produce a 1 page report that reflects on the current state of your port
 
 1. **Analyze your markup and your CSS.** View the source of all of the HTML documents you’ve produced so far and assess how well you have (or haven’t) managed to separate content from presentation.
 
-2. **Summarize your findings.** Write a 1-page report about your practices thus far. What were you deliberately doing up to this point to keep content and presentation separated? Where did you find shortcomings in your markup? What will you do differently going forward to ensure that your markup is clean and free of presentational information?
+2. **Summarize your findings.** Using markdown syntax on Notehub (https://notehub.org), compose a 1-page report about your practices thus far. What were you deliberately doing up to this point to keep content and presentation separated? Where did you find shortcomings in your markup? What will you do differently going forward to ensure that your markup is clean and free of presentational information?
 
-3. **Save your report as an HTML document (filename.html) and upload to your AFS space and into your course folder.** Alternatively, save your report as a markdown document (filename.md) and upload to your AFS space. Do not submit a Microsoft Word document – at this point, you should be prepared to easily produce a simple HTML document. Save your report as an HTML document with proper, standards-compliant markup to your AFS space and link to it from your course page.
+3. **Publish your Notehub and provide a link to your Notehub on your course repository website.** If you want any examples for markdown syntax formatting or characters, go to this resource (https://blog.ghost.org/markdown/). You can also check the #resources channel on Slack for a useful formatting template. 
 
 
 
